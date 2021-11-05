@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohammadRK2000
 - 👀 I’m interested in JavaScript, Node JS, Bots, C#, Windows Form apps
 - 🌱 I’m currently learning so many things mostly in Node
-- 📫 you can find me on twitter
+
 
 <!---
 MohammadRK2000/MohammadRK2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
